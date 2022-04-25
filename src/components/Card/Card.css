@@ -1,0 +1,10 @@
+.card__typography {
+  overflow: hidden;
+  width: 100%;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.card__content {
+  text-align: center;
+}
